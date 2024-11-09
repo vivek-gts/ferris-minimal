@@ -1,0 +1,168 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * aller:
+ *   - http://typekit.com/eulas/00000000000000003b9b4017
+ *   - http://typekit.com/eulas/00000000000000003b9b4016
+ *   - http://typekit.com/eulas/00000000000000003b9b4018
+ *   - http://typekit.com/eulas/00000000000000003b9b4019
+ * aw-conqueror-didot:
+ *   - http://typekit.com/eulas/00000000000000003b9b2803
+ *   - http://typekit.com/eulas/00000000000000003b9b28de
+ * baker-signet-web:
+ *   - http://typekit.com/eulas/00000000000000000001007e
+ * benton-modern-display:
+ *   - http://typekit.com/eulas/00000000000000003b9af2d0
+ * lust:
+ *   - http://typekit.com/eulas/000000000000000000014314
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-04-02 01:43:41 UTC"}*/
+
+@import url("p8125.css?s=1&amp;k=oqp2yyo&amp;ht=tk&amp;f=9763.9764.9765.9766.10871.40907.40972.22005.30772&amp;a=7155828&amp;app=typekit&amp;e=css");
+
+@font-face {
+  font-family: "aller";
+  src: url("af/2de469/00000000000000003b9b4017/27/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("woff2"),
+    url("af/2de469/00000000000000003b9b4017/27/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("woff"),
+    url("af/2de469/00000000000000003b9b4017/27/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "aller";
+  src: url("af/56c7b2/00000000000000003b9b4016/27/lfdcc?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i4&amp;v=3")
+      format("woff2"),
+    url("af/56c7b2/00000000000000003b9b4016/27/dfdcc?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i4&amp;v=3")
+      format("woff"),
+    url("af/56c7b2/00000000000000003b9b4016/27/afdcc?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i4&amp;v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "aller";
+  src: url("af/a967ca/00000000000000003b9b4018/27/l652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3")
+      format("woff2"),
+    url("af/a967ca/00000000000000003b9b4018/27/d652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3")
+      format("woff"),
+    url("af/a967ca/00000000000000003b9b4018/27/a652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "aller";
+  src: url("af/dfd58f/00000000000000003b9b4019/27/le265?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i7&amp;v=3")
+      format("woff2"),
+    url("af/dfd58f/00000000000000003b9b4019/27/de265?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i7&amp;v=3")
+      format("woff"),
+    url("af/dfd58f/00000000000000003b9b4019/27/ae265?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i7&amp;v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "baker-signet-web";
+  src: url("af/83600b/00000000000000000001007e/27/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("woff2"),
+    url("af/83600b/00000000000000000001007e/27/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("woff"),
+    url("af/83600b/00000000000000000001007e/27/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "aw-conqueror-didot";
+  src: url("af/28c1da/00000000000000003b9b2803/27/l652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3")
+      format("woff2"),
+    url("af/28c1da/00000000000000003b9b2803/27/d652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3")
+      format("woff"),
+    url("af/28c1da/00000000000000003b9b2803/27/a652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "aw-conqueror-didot";
+  src: url("af/a394b0/00000000000000003b9b28de/27/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("woff2"),
+    url("af/a394b0/00000000000000003b9b28de/27/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("woff"),
+    url("af/a394b0/00000000000000003b9b28de/27/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "lust";
+  src: url("af/6a323f/000000000000000000014314/27/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("woff2"),
+    url("af/6a323f/000000000000000000014314/27/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("woff"),
+    url("af/6a323f/000000000000000000014314/27/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "benton-modern-display";
+  src: url("af/174cd8/00000000000000003b9af2d0/27/l5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3")
+      format("woff2"),
+    url("af/174cd8/00000000000000003b9af2d0/27/d5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3")
+      format("woff"),
+    url("af/174cd8/00000000000000003b9af2d0/27/a5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+}
+
+.tk-aller {
+  font-family: "aller", sans-serif;
+}
+.tk-baker-signet-web {
+  font-family: "baker-signet-web", serif;
+}
+.tk-aw-conqueror-didot {
+  font-family: "aw-conqueror-didot", serif;
+}
+.tk-lust {
+  font-family: "lust", serif;
+}
+.tk-benton-modern-display {
+  font-family: "benton-modern-display", serif;
+}
