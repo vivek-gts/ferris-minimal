@@ -7,13 +7,13 @@
  */
 
 :root {
-  --primary-color: #c8ad73;
-  --bg-color: rgba(200, 173, 115, 0.92);
-  --border-color: rgba(200, 173, 115, 0.5);
-  --mask-font-color: rgba(200, 173, 115, 0.46);
-  --nav-font-color: white;
-  --semi-transparent-font: rgba(255, 255, 255, 0.8);
-  --menu-slash-color: rgba(var(--nav-font-color), 0.5);
+  --primary-color: #fffffe;
+  --bg-color: rgb(from var(--primary-color) r g b / 0.92);
+  --border-color: rgb(from var(--primary-color) r g b / 0.5);
+  --mask-font-color: rgb(from var(--primary-color) r g b / 0.46);
+  --nav-font-color: #53197f;
+  --semi-transparent-font: rgb(from var(--nav-font-color) r g b / 0.8);
+  --menu-slash-color: rgb(from var(--nav-font-color) r g b / 0.5);
 }
 
 html {
@@ -13663,7 +13663,7 @@ h3 {
   height: 100% !important;
 }
 .dimmerColor .preload-screen .logo path {
-  fill: var(--primary-color);
+  /* fill: var(--primary-color); */
 }
 .dimmerColor .dimmerBorder {
   height: -webkit-calc(100% - 11em);
@@ -14765,7 +14765,7 @@ header .logo svg {
   height: 100%;
 }
 header .logo svg path {
-  fill: var(--primary-color);
+  /* fill: var(--primary-color); */
 }
 header .logo a {
   display: inline-block;
